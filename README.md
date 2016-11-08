@@ -1,0 +1,2 @@
+# netlogo
+trading algorithm
